@@ -1,0 +1,7 @@
+{"highlights":[
+  {"type":"startWith","test": "si"      ,"color":"INTENSITY_BOLD,CYAN"           },
+  {"type":"endsWith" ,"test": "blink"   ,"color":"BLINK_SLOW,INTENSITY_BOLD,BLUE"},
+  {"type":"contains" ,"test": "needle"  ,"color":"BG_WHITE,RED"                  },
+  {"type":"exact"    ,"test": "ghi"     ,"color":"GREEN"                         },
+  {"type":"regex"    ,"test": "[0-9]+"  ,"color":"INTENSITY_BOLD,YELLOW"         }
+]}
